@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# macOS
+.DS_Store
+
+# Model weights
+models/
+
+# Sample outputs (keep metadata only)
+samples/*.png
+
+# IDE
+.vscode/
+.idea/
